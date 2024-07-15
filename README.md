@@ -12,3 +12,6 @@ system's real-time responsiveness and effectiveness?
 II.	How do Rust's memory safety and error handling features improve defence system 
 reliability and robustness against attacks and vulnerabilities?
 
+# Design Flow
+![image](https://github.com/user-attachments/assets/49b5cd0d-e59c-441f-9a45-d3dc5971730f)
+
